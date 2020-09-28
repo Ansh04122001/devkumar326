@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on diffrent kinds of projects(DSA, Web development, Data Science/Machine Learning)
 - 🤔 I’m looking for help with Flutter development.
-- 💬 Ask me about Data Structures and Algorithms.
+- 💬 Ask me about anything, I'm happy to help.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love programming, coffee, cricket and powerlifting.
