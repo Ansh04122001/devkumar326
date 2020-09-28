@@ -23,3 +23,9 @@ Here are some ideas to get you started:
  -->
 <!-- ![Lav's github stats]() -->
 </details>
+### Show some ❤️ by starring some of the repositories!
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/devkumar326/count.svg" />
+</p>
