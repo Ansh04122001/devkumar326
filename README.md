@@ -19,13 +19,11 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Github Stats</summary>
    <img align="centre" alt="Lav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devkumar326&show_icons=true&theme=radical" /> 
-<!--   ![Dev's github stats](https://github-readme-stats.vercel.app/api?username=devkumar326)
- -->
-<!-- ![Lav's github stats]() -->
-</details>
-### Show some ❤️ by starring some of the repositories!
-
-<p align="center"> 
+   <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/devkumar326/count.svg" />
 </p>
+<!--   ![Dev's github stats](https://github-readme-stats.vercel.app/api?username=devkumar326)
+ -->
+<!-- ![Dev's github stats]() -->
+</details>
