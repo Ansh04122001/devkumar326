@@ -1,10 +1,5 @@
 ### Hi there 👋, I'm Dev Kumar
-<a href="https://www.linkedin.com/in/dev-kumar-70a41a19b/">
-  <img align="left" alt="devkumar326 LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/dev_kumar/profile">
-  <img align="left" alt="devkumar326 GeeksforGeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/geeksforgeeks.svg" />
-</a>
+
 <br/>
 
 ![cat](https://raw.githubusercontent.com/devkumar326/devkumar326/master/me.gif)
