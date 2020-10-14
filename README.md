@@ -2,7 +2,7 @@
 
 <br/>
 
-![cat](https://raw.githubusercontent.com/devkumar326/devkumar326/master/me_1.gif)
+<img src="https://raw.githubusercontent.com/devkumar326/devkumar326/master/me_1.gif" width=300 height=500>
 
 <!--
 **devkumar326/devkumar326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
